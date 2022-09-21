@@ -13,4 +13,4 @@ if(details[i]["age"]>30){
   bag=details[i]["name"]+" "+bag;
 }
 }
-console.log(bag);
+console.log(bag,"updated the bag");
